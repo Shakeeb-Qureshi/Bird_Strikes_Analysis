@@ -1,7 +1,15 @@
 # Bird_Strikes_Analysis
 A illustrative analysis on Bird Strikes between the years 2000 and 2011, and analysis attributes like bird strike occurrences, costs, and impacts across airlines, airports, and flight phases for aviation safety insights.
 
-## Dashboard Pages
+
+## Tableau Publeau Dashboard Links
+### Dashboard 1 : 
+https://public.tableau.com/app/profile/shakeeb.qureshi/viz/BirdStrikesAnalysis_xlsx/Dashboard
+
+### Dashboard 2
+https://public.tableau.com/app/profile/shakeeb.qureshi/viz/BirdStrikesAnalysis_xlsx/Dashboard2
+
+## Dashboard Details
 
 ### Dashboard Page 1
 - Top 10 Airlines with Most number of Bird Strikes
@@ -18,7 +26,7 @@ A illustrative analysis on Bird Strikes between the years 2000 and 2011, and ana
 - Altitude wise occurence of Bird Strikes
 - Month wise Bird Strikes occurence
 - Impact to Flight based on Damage caused
-- Average feet above ground during Bird Strikes and Total number of Wildlife struck
+- Average feet above ground during Bird Strikes and Total number of Wildlife struck  
 
 ## Repository Content
 - **Tableau Dashboard File:**
