@@ -29,7 +29,8 @@ https://public.tableau.com/app/profile/shakeeb.qureshi/viz/BirdStrikesAnalysis_x
 - Average feet above ground during Bird Strikes and Total number of Wildlife struck  
 
 ## Repository Content
-- **Tableau Dashboard File:**
+- **Tableau Dashboard File**
 - **Screenshots of Dashboard**
 - **Video explaining the Dashboard**
+- **Presentation on the Analysis**
 - **Raw Data File**
